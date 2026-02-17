@@ -2,19 +2,19 @@
 
 A simple and responsive calculator built using HTML, CSS, and JavaScript for performing basic arithmetic operations.
 
----
+
 
 ## Overview
 
 This project is a lightweight web-based calculator designed to perform everyday mathematical calculations in a clean and user-friendly interface. The focus of this project is to understand core front-end concepts such as DOM manipulation, event handling, and UI design without relying on frameworks.
 
----
+
 
 ## Problem Statement
 
 Many beginners struggle with understanding how JavaScript interacts with the UI in real-time. This project solves that by demonstrating how basic logic, button events, and dynamic display updates work together in a real-world mini application.
 
----
+
 
 ## Tools and Technologies
 
@@ -22,7 +22,7 @@ Many beginners struggle with understanding how JavaScript interacts with the UI 
 * CSS – Styling and layout design
 * JavaScript – Logic, event handling, and calculations
 
----
+
 
 ## Methods
 
@@ -32,7 +32,7 @@ Many beginners struggle with understanding how JavaScript interacts with the UI 
 * String parsing and evaluation for expressions
 * Responsive UI design using CSS
 
----
+
 
 ## Key Insights
 
@@ -41,7 +41,7 @@ Many beginners struggle with understanding how JavaScript interacts with the UI 
 * Practiced debugging DOM-based applications
 * Gained clarity on handling edge cases like invalid inputs or multiple operators
 
----
+
 
 ## Output
 
@@ -54,7 +54,7 @@ The output is a fully functional calculator interface that supports:
 * Clear/reset functionality
 * Responsive layout for different screen sizes
 
----
+
 
 ## How to Run this project?
 
@@ -63,13 +63,13 @@ The output is a fully functional calculator interface that supports:
 3. Open the `index.html` file in any web browser.
 4. Start using the calculator instantly — no installation required.
 
----
+
 
 ## Results & Conclusion
 
 The project successfully demonstrates how a complete mini application can be built using only core web technologies. It strengthens the fundamentals of front-end development and builds confidence in creating interactive web apps from scratch.
 
----
+
 
 ## Future Work
 
@@ -77,7 +77,7 @@ The project successfully demonstrates how a complete mini application can be bui
 * Convert into a mobile app using frameworks like React Native or Flutter
 * Improve UI with animations and sound feedback
 
----
+
 
 ## Author & Contact
 
