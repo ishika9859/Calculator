@@ -87,6 +87,4 @@ The project successfully demonstrates how a complete mini application can be bui
 **Author:** Ishika
 **Tech Stack:** Front-End Development (HTML, CSS, JavaScript)
 **Status:** Beginner-friendly practice project
-**LinkedIn :** https://www.linkedin.com/in/ishika-gupta-072a79320?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYkrEyE0sTIiatuj6PH0mCg%3D%3D
-
-Agar chaho toh mai isko resume-friendly ya GitHub star-attracting version bhi bana sakti hoon — more professional branding ke saath.
+**LinkedIn :** [connect with me](https://www.linkedin.com/in/ishika-gupta-072a79320?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYkrEyE0sTIiatuj6PH0mCg%3D%3D)
